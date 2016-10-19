@@ -1,4 +1,4 @@
-package calculadorainiciativa;
+package calculadoraIniciativa;
 
 /**
  *

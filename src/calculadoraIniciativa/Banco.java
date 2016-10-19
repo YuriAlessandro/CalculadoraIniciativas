@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package calculadorainiciativa;
+package calculadoraIniciativa;
 
 import java.util.ArrayList;
 
