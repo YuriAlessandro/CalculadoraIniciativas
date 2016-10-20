@@ -1,7 +1,7 @@
 package calculadoraIniciativa.interfaces;
 
-import calculadorainiciativa.Banco;
-import calculadorainiciativa.Jogador;
+import calculadoraIniciativa.Banco;
+import calculadoraIniciativa.Jogador;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;

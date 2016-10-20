@@ -1,6 +1,6 @@
-package calculadorainiciativa;
+package calculadoraIniciativa;
 
-import static calculadorainiciativa.Banco.LISTAJOGADORES;
+import static calculadoraIniciativa.Banco.LISTAJOGADORES;
 
 /**
  *
